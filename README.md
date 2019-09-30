@@ -10,6 +10,8 @@ The advantages of the technique we are using are:
 2) Minimal input is required
 We’ll be going to use the Generative Adversarial Networks (GANs) one of best deep neural network architecture. GAN is not just capable of doing things which we want it to do but along side it does many things inside it while computation.
 
+![](Capture1.PNG)
+
 # Scope
 Through the above description this project seems to be like limited to the fog, but the reality is, it’s wide. In the today’s world air pollution is also one of the major problems we are facing which is again causing the unclear visual. This project is the foundation of the solution of all the other problem we are facing or could face in the future. 
 This project can be even used to make devices through which user would be able to see the clear visuals even if there is very less real visibility.
